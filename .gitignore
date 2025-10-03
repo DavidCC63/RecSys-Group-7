@@ -1,3 +1,8 @@
+# processing files
+*.pkl
+*.tsv
+*_MACOSX/
+*.lg
 # corenlp
 corenlp*.props
 
