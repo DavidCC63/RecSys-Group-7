@@ -15,7 +15,7 @@ torch-geometric==2.1.0.post1
 torch-scatter==2.0.9
 torch-sparse==0.6.12
 torch-spline-conv==1.2.1
-faiss-gpu==1.7.2
+# faiss-gpu==1.7.2
 einops==0.5.0
 einops-exts==0.0.3
 pickle5==0.0.11

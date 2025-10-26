@@ -1,4 +1,4 @@
-unzip parsemis.zip 
+Expand-Archive -Path parsemis.zip -DestinationPath . -Force
 
 # sample neighbors for graph neural networks
 python build_adj.py --dataset Tmall --n_sample 12 --attributes brand category

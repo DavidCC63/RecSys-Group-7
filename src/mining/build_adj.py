@@ -4,7 +4,7 @@ import sys
 f_path = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, f_path)
 
-import pickle5 as pickle
+import pickle
 import argparse
 import os
 

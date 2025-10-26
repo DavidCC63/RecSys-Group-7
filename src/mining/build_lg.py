@@ -6,7 +6,7 @@ sys.path.insert(0, f_path)
 
 import argparse
 import numpy as np
-import pickle5 as pickle
+import pickle
 import os
 from collections import Counter
 
