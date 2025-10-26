@@ -1,0 +1,12 @@
+pandas
+scipy
+numba
+tqdm
+ujson
+python-igraph==0.9.11
+matplotlib
+scikit-learn
+tensorboardX
+texttable
+einops
+einops-exts
